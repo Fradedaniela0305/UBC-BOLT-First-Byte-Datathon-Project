@@ -9,6 +9,14 @@ The analysis combines data cleaning, statistical testing, and visualization to t
 
 ---
 
+## Presentation
+
+The full analysis and strategic recommendations were presented during the UBC BOLT Datathon.
+
+📊 [View the presentation slides](BOLT%20First%20Byte.pdf)
+
+---
+
 ## Tools & Technologies
 
 - Python  
